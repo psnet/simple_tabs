@@ -5,6 +5,7 @@
  * @author    Serge Pustovit (PSNet) <light.feel@gmail.com>
  *
  * @link      http://psnet.lookformp3.net
+ * @link      https://github.com/psnet/simple_tabs
  */
 
 /**
