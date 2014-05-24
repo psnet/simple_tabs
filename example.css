@@ -1,0 +1,63 @@
+/*
+	Simple Tabs jQuery plugin Demo
+
+	(P) PSNet 2008 - 2014
+	http://psnet.lookformp3.net
+*/
+
+/* base */
+
+* {
+	margin: 0;
+	outline: medium none;
+	padding: 0;
+}
+
+body {
+	background: none repeat scroll 0 0 #EEEEEE;
+	color: #555555;
+	font: 16px/20px Verdana;
+}
+
+.inner {
+	background: none repeat scroll 0 0 hsl(0, 0%, 100%);
+	margin: 100px auto;
+	padding: 20px;
+	width: 500px;
+}
+
+/* tabs example design */
+
+.tabs > * {
+	background: none repeat scroll 0 0 hsl(171, 100%, 39%);
+	border-radius: 4px 4px 0 0;
+	color: hsl(0, 0%, 100%);
+	display: inline-block;
+	padding: 5px 10px;
+	text-decoration: none;
+}
+
+.tabs > .active {
+	background: none repeat scroll 0 0 hsl(42, 100%, 50%);
+}
+
+.content {
+	background: none repeat scroll 0 0 hsl(60, 100%, 97%);
+	border: 2px solid hsl(42, 100%, 50%);
+	padding: 10px;
+}
+
+/* helpers */
+
+.d-n {
+	display: none;
+}
+
+.author {
+	background: none repeat scroll 0 0 hsl(0, 0%, 98%);
+	bottom: 0;
+	font-size: 0.7em;
+	padding: 15px;
+	position: fixed;
+	right: 0;
+}
