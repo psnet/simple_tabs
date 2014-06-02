@@ -88,8 +88,8 @@ var simple_tabs = (function ($) {
 			/**
 			 * Переключить содержимое
 			 */
-			$ (simple_tabs.selectors.tab_content + '[' + simple_tabs.data_attr.tab_group + '="' + sGroup + '"]').slideUp(30);
-			$ (simple_tabs.selectors.tab_content + '[' + simple_tabs.data_attr.tab_group + '="' + sGroup + '"][' + simple_tabs.data_attr.tab_id + '="' + iLinkedContentId + '"]').slideDown(30);
+			$ (simple_tabs.selectors.tab_content + '[' + simple_tabs.data_attr.tab_group + '="' + sGroup + '"]').toggle(false);
+			$ (simple_tabs.selectors.tab_content + '[' + simple_tabs.data_attr.tab_group + '="' + sGroup + '"][' + simple_tabs.data_attr.tab_id + '="' + iLinkedContentId + '"]').toggle(true);
 			return false;
 		});
 	};
