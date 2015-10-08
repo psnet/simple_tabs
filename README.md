@@ -9,7 +9,7 @@ jQuery плагин для быстрого и простого создания
 Демо
 ---
 
-http://psnet.lookformp3.net/_demo/simple_tabs/example.htm
+http://psnet.github.io/simple_tabs/demo/
 
 
 Код из демо:
