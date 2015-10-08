@@ -62,4 +62,6 @@ http://psnet.lookformp3.net/_demo/simple_tabs/example.htm
 Лицензия
 ---
 
+(P) PSNet 2014, http://psnet.lookformp3.net
+
 Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
