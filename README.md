@@ -62,6 +62,6 @@ http://psnet.github.io/simple_tabs/demo/
 Лицензия
 ---
 
-(P) PSNet 2014, http://psnet.lookformp3.net
+(P) PSNet 2014
 
 Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
